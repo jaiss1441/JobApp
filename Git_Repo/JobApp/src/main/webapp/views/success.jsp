@@ -46,7 +46,7 @@
                     <a class="nav-link" href="viewalljobs">All Jobs</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://telusko.com/">Contact</a>
+                    <a class="nav-link" href="https://jaiss1441.github.io/My-Portfolio/">Contact</a>
                 </li>
             </ul>
         </div>
