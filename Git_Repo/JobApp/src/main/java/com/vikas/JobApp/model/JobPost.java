@@ -19,6 +19,5 @@ public class JobPost {
     private Integer reqExperience;
     private List<String> postTechStack;
 
-    public <E> JobPost(int i, String javaDeveloper, String s, int i1, List<E> es) {
-    }
+
 }
