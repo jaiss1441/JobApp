@@ -10,8 +10,10 @@ import java.util.List;
 @Data
 @Component
 @NoArgsConstructor
+
 @AllArgsConstructor
 public class JobPost {
+
 
     private int postId;
     private String postProfile;
