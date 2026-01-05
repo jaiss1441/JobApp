@@ -10,7 +10,6 @@ import java.util.List;
 @Data
 @Component
 @NoArgsConstructor
-
 @AllArgsConstructor
 public class JobPost {
 
